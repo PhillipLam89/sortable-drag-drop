@@ -1,0 +1,18 @@
+body {
+  height: 90dvh;
+  display: flex;
+  user-select: none;
+  gap: .5em;
+  margin: 0
+}
+
+.box {
+  text-align: center;
+  width: 20%;
+  border: 2px dashed blue;
+  border-radius: 10px;
+}
+p {
+ margin: 1em;
+ border: 2px solid red;
+}
